@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to sp founders done on may  4</h1>
-<h1 align="center"> KK FUNDA</h1>
+<h1 align="center"> SP Founders</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
